@@ -1,0 +1,44 @@
+Design Document
+
+** Game design - 
+Summary (Elevator pitch)
+Gameplay
+. point and click adventure
+. numerous set pieces
+Atmosphere/Mindset
+. deliver lore in the style of DS or Transistor - very sparse direct lore, but rich lore in the sets and details of the world. Side quests and NPC conversations fill in gaps without being exposition fairies
+. Set in a city called maya, the player is 
+
+** Technical
+Screens
+Controls
+. mouse based control - you can play this game while eating
+. keyboard shortcuts
+Mechanics
+. 
+
+** Level Design
+Themes
+. desert
+. ocean
+. labyrinthian city
+Game Flow
+. no time restriction, the player is given absolute control.
+. choice based gameplay - choices must lead to clear results, but occasionally unexpected side effects
+
+** Developement
+Abstracted classes
+Derived classes
+
+** Graphics 
+Aesthetics
+Graphics needed
+
+** Audio
+Style
+. tabla drums
+. mostly percussion based
+. RnB
+Sounds needed
+Music needed
+
