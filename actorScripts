@@ -1,0 +1,56 @@
+Act 0, Scene 0: "There's always a man, always a lighthouse, always a city." - Elizabeth
+
+
+Street urchin:
+Heya. <flips coin> Heads or tails, you think?
+
+$ Do I get a choice?
+
+Street urchin:
+It's up to you to decide that.
+
+$ The coin, you mean? You're the one flipping it.
+
+Street Urchin:
+Hmm, that's true. I mean I'm flipping the coin, that's what they tell me, at least. To be honest, I just like confusing strangers.
+
+$ You are doing a great job.
+$ ...Who's they?
+
+Stree Urchin: 
+Aria and Elaine. Actually, you should probably go see them, they'll point you wherever you need to go for whatever you're doing. What are you doing here, by the way? Maya's not exactly a great place.
+
+$ ...
+switch (int $)
+{
+	case 1:
+		I'm looking for someone
+	case 2:
+		I'm searching for something
+	case 3:
+		I've lost something
+	case 4:
+		I'm lost
+}
+
+
+Elaine:
+Constants and variables.
+
+
+Aria:
+As she said, It's all constants and variables. 
+
+And to an extent that's true. But the whole truth is this city never changes. There's nothing under the mask - an imagined paradise on top of lifeless metals and sediment. The only pulse in this city is faint and erratic, dead leafs on the dirty ground.
+
+So what are you here for? What is it that you think you can accomplish? I'll tell you what: nothing. Nothing you do here has any meaning. At the end of it all you'll be dust, and we'll not be far behind.
+
+
+
+
+
+Elaine:
+But there's a spark in you, isn't there. You can feel it when the rain starts pouring outside and the winds howl and your heart beats and your mind churns. There might be nothing much you can do... but to say <name> cannot do anything is false, Aria.
+
+You actions are not screams in a vacuum. Though even screams in a vacuum can echo, however faintly. Whatever your purpose is here, I hope you find something of worth.
+
