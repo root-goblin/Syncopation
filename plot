@@ -18,6 +18,10 @@ The player's choices do not matter unless they forcibly change the game.
 
 Loss of choice is a consequence of failure - as in the more the players fail, the less choices they'll be able to make.
 
+Ancient evil sit underneath the city!
+
+
+
 Plot:
 
 player begins as a glory seeking adventurer, headed to the city of maya in search of something
@@ -26,4 +30,4 @@ player meets
 
 
 
-fin: player is led to the truth.
+fin: player is led to the truth -> they are the source of the macguffin's power since they in fact play the game. 
