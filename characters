@@ -16,7 +16,7 @@ Elaine
 age: 19
 gender: female
 occupation:
-goal:
+goal: to find a purpose in life
 - Personification of the creative force 
 - vibrant and warm, likes to give out advice, warranted or not.
 - has a tendency to gush
@@ -33,11 +33,12 @@ Art
 age: 14
 gender: male
 occupation: street urchin by day, Elaine's right hand man by night
-goal:
+goal: to help Elaine raise a family
+history: 
 - Grew up with Elaine, the son of her foster parents
 - was orphaned when the riots took away his family
-- raised by Elaine, owes her big favours
-- Loves to prank people
+- owes Elaine some big favors that she loves to rub in his face
+- bit of a prankster
 - became an occasional clairvoyant when he accidentally activated a macguffin bracer during retrieval - wears it around his left forearm now
 - Surprisingly skilled at basket weaving
  
@@ -48,20 +49,34 @@ Helia
 age:  40
 gender: female
 occupation: mayor
-goal:
+goal: to prevent the city from descending into just a generally not great place forever
 - Fairly heavyset woman, looks like she can knock someone out with a stern warning but usually that assumption goes right out the window when striking up a conversation with her.
-- Heedless obsession with the prosperity of the city
+- Heedless obsession with the prosperity of the city (usually the lack thereof)
 - sometimes crippled by anxiety. 
 
 Mu 
 age: 15
 gender: male
-occupation: Leader of the Ysha bond.
-goal:
-- Groomed to be the leader of House Ysha from a young age
-- Cute as a button
-- Really innocent of regular citizen life things
+visual guide:
 - If he was food, he'd be a pineapple
+- Cute as a button
+occupation: Leader of the Ysha bond.
+goal: to organise his house into a more professional 'business'
+personality:
+- Really innocent of regular citizen life things
+- fiercely loyal to family ties
+- grieves for his lost brother Ames, but otherwise somewhat happy-go-lucky
+- tends to hide his feelings due to his role as the Leader of a major house
+- has a bunney-ears-lawyer vibe in approaching his work
+- highly focused, and becomes very intense when he is needed to act
+history:
+- Groomed to be the leader of House Ysha from a young age
+- Lost much of his family to political backstabbing (sometimes literally)
+- raised by his brother - who also fell victim to machinations by an opposing faction within the bond
+- extremely intelligent, and somewhat genre-savvy when it comes to gang-related manoeuvering
+- His parents (later his brother) constantly taught him the intricacies of running the house from a very young age, thus he has a highly intuitive sense of the inner workings of Ysha's 'businesses'
+- Mu was very close with his brother Ames, whose death set him on the path to reorganising his clan to become more professional in their dealings
+- Due to his troubled upbringing, he had very little time to be a child, and would often sneak out in disguise to play with neighbouring children
 
 Omen
 age: ???
