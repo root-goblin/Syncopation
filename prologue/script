@@ -1,0 +1,38 @@
+Act 0, Scene 0: "There's always a man, always a lighthouse, always a city." - Elizabeth
+
+
+Art:
+Heya. <flips coin> Heads or tails, you think?
+
+$ Do I get a choice?
+
+Art:
+It's up to you to decide that.
+
+$ You mean the coin? You're the one flipping it.
+
+Art:
+Hmm, that's true. I mean I'm flipping the coin, that's the truth of it. To be honest, I just like confusing strangers - that's what Elaine tells me, at least.
+
+$ You are doing a great job ...Who's Elaine?
+
+Art: 
+She's nice, who are you?
+
+$ ...
+switch (int $)
+{
+	case 1:
+		I'm looking for someone
+	case 2:
+		I'm searching for something
+	case 3:
+		I've lost something
+	case 4:
+		I'm lost
+}
+
+Art:
+You should probably go see Elaine, she likes to help out. She might help you out of that predicament.
+
+$ Huh. Where might I find her dd
