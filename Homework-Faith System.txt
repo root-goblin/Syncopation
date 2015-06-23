@@ -1,0 +1,25 @@
+Faith Mechanic:
+
+1) From what I read on git, I’m assuming the player has the power to control faith somehow? He/she plays god…
+If so… I suggest making the game affected by the player’s choices.
+
+- The world has a couple of different scenarios that depends on the faith system (the player’s view of faith)
+- The faith system guides the player towards the “more likely” scenario based on the player’s choices
+- Player has the free mindset to do what he/she wants. 
+- Make the decision-based game system dependent on the faith system
+	- Example: “A” makes a request to the player to accomplish a quest 
+	  … which helps “A”.  “A” has put faith in the player. The player however
+	  ignores the request. “A” loses faith in the player, but depending on 
+	  the scenario of the request, the player could have made a “good” or “bad”
+	  decision, or whichever that benefits his/her own clause/faith.
+- You can make this controversial, where the faith of the city Maya is in your hands. Your choices in each interaction will change the faith of other people have in you. So let’s say half the city believes in God, and other other half are atheists, your decision (your faith upon the decision) will alter how others think of you, and depending on the outcome, the quests/other interactions/other game play will be affected…(?)
+
+2) The first idea is more of a visual novel type of game, with possible different end results. 
+This idea is a more linear-based scenario.
+
+- Maybe you want all of the people to have faith in you, so your goal is to achieve something greater. 
+	- In this scenario, you would pretty much try to accomplish as much as you can to gain faith. 
+	- If you fail a quest, consequences occur, whether it is making your next quest harder, or gaining
+	  faith back is harder…etc. 
+	- This idea is very generic though …
+
